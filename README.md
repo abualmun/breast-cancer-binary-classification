@@ -1,1 +1,2 @@
-# breast-cancer-binary-classification
+
+![plot](./mean_smoothness.png)
